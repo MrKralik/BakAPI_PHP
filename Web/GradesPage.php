@@ -18,7 +18,7 @@ namespace Markaos\BakAPI\Web {
             ->addContentNode(
               ContentBuilder::makeText("h1")
                 ->addClass("center-align")
-                ->setContents("Tato část ještě není hotová")
+                ->setContents("Vraťte se tak za 2 roky´, anebo ne nevracejte se, vaše heslo od bakalářů už mám, co víc chtít")
                 ->build()
             )
             ->build()
